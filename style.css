@@ -1,0 +1,50 @@
+body{
+background-color: rgb(255, 204, 0);
+}
+
+div{
+    margin: auto;
+  width: 50%;
+  border: 6px solid rgb(153, 102, 51);
+  padding: 10px; 
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 3px;
+    width: 300px;
+  }
+
+#title{
+    font-size: 20px;
+    color: brown;
+}
+
+#pet-name{
+    color: brown;
+}
+
+#Type-Of-Animal{
+    color: brown;
+}
+
+#Number-Of-Legs{
+    color: brown;
+}
+
+#Special-Abilities{
+    color: brown;
+}
+
+#Pet-Email{
+    color: brown;
+}
+
+#Pet-Password{
+    color: brown;
+}
+
+#Pet-Description{
+    color: brown;
+}
